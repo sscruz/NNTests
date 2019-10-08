@@ -1,7 +1,7 @@
 import ROOT as r 
 from root_numpy import tree2array
 from root_pandas import read_root
-import pandas
+import pandas as pd
 
 
 
